@@ -110,7 +110,7 @@ ecoscan-ai/
 * Department of Artificial Intelligence & Data Science
 * Datta Meghe College of Engineering, Mumbai University
 * **Category:** AI-Powered Climate Tech & Enterprise ESG Compliance
-
+* AICTE | IBM SkillsBuild Machine Learning & Applied AI Internship Program 2026 | BharatCares
 ---
 
 ## 📜 License
